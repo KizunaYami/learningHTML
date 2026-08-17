@@ -1,2 +1,2 @@
 # learningHTML
-Repositoria da minha evolução no aprendizado em HTML only.
+Repositorio da minha evolução no aprendizado em HTML e CSS.
